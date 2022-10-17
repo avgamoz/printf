@@ -63,4 +63,4 @@
 ## Authors
 [Akinsola babajide](https://github.com/avgamoz) | [@avgamoz](https://twitter.com/donjhydeamoz)
 
-[Daniel Ojeda](https://github.com/Danielo814) | [@DanielC_Ojeda](https://twitter.com/DanielC_Ojeda)
+[ Yalemsew Tefera ](https://github.com/Yalemsew Tefera) | [@Yalemsew Tefera](https://twitter.com/yalemsew-5efera)
